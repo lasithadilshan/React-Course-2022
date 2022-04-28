@@ -9,4 +9,7 @@
 // h1.className = "header"
 // document.getElementById("root").append(h1)
 
-ReactDOM.render(<h1 className="header">Hello, React!</h1>, document.getElementById("root"))
+// ReactDOM.render(<h1 className="header">Hello, React!</h1>, document.getElementById("root"))
+
+//JSX
+ReactDOM.render(<h1 className = "header">This is JSX</h1>, document.getElementById("root"))
